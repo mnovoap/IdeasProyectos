@@ -4,5 +4,7 @@ Repositorio con ideas de proyectos :
 (https://www.youtube.com/watch?v=qBZjwg1zsDk)  
 [https://www.youtube.com/watch?v=qBZjwg1zsDk](https://www.youtube.com/watch?v=qBZjwg1zsDk)
 
-#### : 
-- Proyectos presentados con diferentes herramientas
+- Proyectos LYCHEE: Proyecto presentando herramientas de K-means con un nuevo indice de vulnerabilidad infantil, junto una herramienta en una pagina web
+- CATS: Clasificador de suelos como dashboard y agregar archivos sin clasificar con una API
+- Turismo: WordCloud para reseñas
+- Deserción universitaria: Se tiene modelo XGBOOST, Random Forest, Regresión lógistica, Arboles de decisión
