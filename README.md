@@ -8,3 +8,4 @@ Repositorio con ideas de proyectos :
 - CATS: Clasificador de suelos como dashboard y agregar archivos sin clasificar con una API
 - Turismo: WordCloud para reseñas
 - Deserción universitaria: Se tiene modelo XGBOOST, Random Forest, Regresión lógistica, Arboles de decisión
+- Desnutrición infantil: App de machine learning en el que se da las caracteristicas de cada niño y su grado de suceptibilidad de tener desnutrición
