@@ -1,4 +1,4 @@
-# The Ultimate FREE Machine Learning Study Plan
+# Proyectos de ejemplo 
 
 Repositorio con ideas de proyectos :  
 (https://www.youtube.com/watch?v=qBZjwg1zsDk)  
